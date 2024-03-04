@@ -1,6 +1,10 @@
 # Airplane-Route-Management
 
 This was an exercise for the software engineering subject in the second year of my studies. 
+
+The solution developed by me can be found in:
+src/main/java/isp/lab8/airways
+
 The main task was the following:
 
 Introduction
