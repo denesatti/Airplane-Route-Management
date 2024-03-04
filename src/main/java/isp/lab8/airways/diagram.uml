@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-52.0" y="49.5">isp.lab8.airways.Waypoint</node>
+    <node x="-107.0" y="-15.0">isp.lab8.airways.RouteManagementSystem</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="17.5" y="50.0" />
+  <SelectedNodes>
+    <node>isp.lab8.airways.RouteManagementSystem</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
